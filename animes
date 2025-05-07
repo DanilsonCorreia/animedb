@@ -2,71 +2,71 @@
   {
     "id": "1",
     "title": "Naruto",
-    "image": "https://i.imgur.com/XFZ3jdT.jpg",
-    "description": "Naruto Uzumaki, um adolescente ninja, busca reconhecimento e sonha em se tornar o Hokage, o ninja mais forte da vila.",
+    "image": "https://images.justwatch.com/poster/306057903/s718/naruto-shippuden.jpg",
+    "description": "Naruto Uzumaki, a teenage ninja, seeks recognition and dreams of becoming the Hokage, the strongest ninja in the village.",
     "type": "Action"
   },
   {
     "id": "2",
     "title": "Your Lie in April",
-    "image": "https://i.imgur.com/aXw3Rjs.jpg",
-    "description": "Após perder sua mãe, o prodígio do piano Kousei Arima perde a habilidade de ouvir o som do piano até conhecer uma animada violinista.",
+    "image": "https://i.ebayimg.com/images/g/4l0AAOSwM7RlLk27/s-l1200.jpg",
+    "description": "After losing his mother, piano prodigy Kousei Arima loses the ability to hear the sound of the piano until he meets a spirited violinist.",
     "type": "Romance"
   },
   {
     "id": "3",
     "title": "Attack on Titan",
-    "image": "https://i.imgur.com/KVZnHkL.jpg",
-    "description": "Em um mundo onde a humanidade está à beira da extinção devido a gigantes criaturas humanoides, um grupo de soldados luta pela sobrevivência.",
+    "image": "https://images.justwatch.com/poster/320153091/s718/temporada-1.jpg",
+    "description": "In a world where humanity is on the brink of extinction due to giant humanoid creatures, a group of soldiers fights for survival.",
     "type": "Thriller"
   },
   {
     "id": "4",
     "title": "One Piece",
-    "image": "https://i.imgur.com/PyO8t0R.jpg",
-    "description": "Monkey D. Luffy parte para se tornar o Rei dos Piratas ao encontrar o lendário tesouro conhecido como One Piece.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg",
+    "description": "Monkey D. Luffy sets out to become the Pirate King by finding the legendary treasure known as One Piece.",
     "type": "Adventure"
   },
   {
     "id": "5",
     "title": "Death Note",
-    "image": "https://i.imgur.com/3GvwNBf.jpg",
-    "description": "Um estudante do ensino médio descobre um caderno sobrenatural que lhe permite matar qualquer pessoa cujo nome ele escreva nele.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "A high school student discovers a supernatural notebook that allows him to kill anyone whose name he writes in it.",
     "type": "Mystery"
   },
   {
     "id": "6",
     "title": "Fullmetal Alchemist: Brotherhood",
-    "image": "https://i.imgur.com/8bY3G1U.jpg",
-    "description": "Dois irmãos alquimistas embarcam em uma jornada para restaurar seus corpos após uma tentativa fracassada de ressuscitar sua mãe.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Two alchemist brothers embark on a journey to restore their bodies after a failed attempt to resurrect their mother.",
     "type": "Fantasy"
   },
   {
     "id": "7",
     "title": "Demon Slayer: Kimetsu no Yaiba",
-    "image": "https://i.imgur.com/0VbZ1aH.jpg",
-    "description": "Um jovem espadachim luta contra demônios após sua família ser massacrada e sua irmã ser transformada em uma dessas criaturas.",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/2ZfAUG5CTXdM34S1OhmMW1zF.jpg",
+    "description": "A young swordsman battles demons after his family is massacred and his sister is turned into one of these creatures.",
     "type": "Action"
   },
   {
     "id": "8",
     "title": "My Hero Academia",
-    "image": "https://i.imgur.com/1ZQZ1ZL.jpg",
-    "description": "Em um mundo onde a maioria das pessoas possui superpoderes, um garoto sem habilidades sonha em se tornar o maior herói de todos.",
+    "image": "https://images.justwatch.com/poster/228096352/s718/boku-no-hero-academia.jpg",
+    "description": "In a world where most people have superpowers, a boy without abilities dreams of becoming the greatest hero of all.",
     "type": "Superhero"
   },
   {
     "id": "9",
     "title": "Tokyo Ghoul",
-    "image": "https://i.imgur.com/2YQZ2YQ.jpg",
-    "description": "Após um encontro mortal, um estudante universitário se transforma em meio-ghoul e deve aprender a viver entre humanos e ghouls.",
+    "image": "https://images.justwatch.com/poster/102012613/s718/tokyo-ghoul.jpg",
+    "description": "After a deadly encounter, a college student becomes a half-ghoul and must learn to live among humans and ghouls.",
     "type": "Horror"
   },
   {
     "id": "10",
     "title": "Sword Art Online",
-    "image": "https://i.imgur.com/3XRZ3XR.jpg",
-    "description": "Jogadores ficam presos em um jogo de realidade virtual e devem lutar para sobreviver, pois morrer no jogo significa morrer na vida real.",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2NhYzU2NDEtYzI1NS00MjgzLThjZGUtOTYxNGJkZjZmNDdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Players become trapped in a virtual reality game and must fight to survive, as dying in the game means dying in real life.",
     "type": "Sci-Fi"
   }
 ]
