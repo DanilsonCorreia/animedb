@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Naruto",
+    "image": "https://i.imgur.com/XFZ3jdT.jpg",
+    "description": "Naruto Uzumaki, um adolescente ninja, busca reconhecimento e sonha em se tornar o Hokage, o ninja mais forte da vila.",
+    "type": "Action"
+  },
+  {
+    "id": "2",
+    "title": "Your Lie in April",
+    "image": "https://i.imgur.com/aXw3Rjs.jpg",
+    "description": "Após perder sua mãe, o prodígio do piano Kousei Arima perde a habilidade de ouvir o som do piano até conhecer uma animada violinista.",
+    "type": "Romance"
+  },
+  {
+    "id": "3",
+    "title": "Attack on Titan",
+    "image": "https://i.imgur.com/KVZnHkL.jpg",
+    "description": "Em um mundo onde a humanidade está à beira da extinção devido a gigantes criaturas humanoides, um grupo de soldados luta pela sobrevivência.",
+    "type": "Thriller"
+  },
+  {
+    "id": "4",
+    "title": "One Piece",
+    "image": "https://i.imgur.com/PyO8t0R.jpg",
+    "description": "Monkey D. Luffy parte para se tornar o Rei dos Piratas ao encontrar o lendário tesouro conhecido como One Piece.",
+    "type": "Adventure"
+  },
+  {
+    "id": "5",
+    "title": "Death Note",
+    "image": "https://i.imgur.com/3GvwNBf.jpg",
+    "description": "Um estudante do ensino médio descobre um caderno sobrenatural que lhe permite matar qualquer pessoa cujo nome ele escreva nele.",
+    "type": "Mystery"
+  },
+  {
+    "id": "6",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "image": "https://i.imgur.com/8bY3G1U.jpg",
+    "description": "Dois irmãos alquimistas embarcam em uma jornada para restaurar seus corpos após uma tentativa fracassada de ressuscitar sua mãe.",
+    "type": "Fantasy"
+  },
+  {
+    "id": "7",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "image": "https://i.imgur.com/0VbZ1aH.jpg",
+    "description": "Um jovem espadachim luta contra demônios após sua família ser massacrada e sua irmã ser transformada em uma dessas criaturas.",
+    "type": "Action"
+  },
+  {
+    "id": "8",
+    "title": "My Hero Academia",
+    "image": "https://i.imgur.com/1ZQZ1ZL.jpg",
+    "description": "Em um mundo onde a maioria das pessoas possui superpoderes, um garoto sem habilidades sonha em se tornar o maior herói de todos.",
+    "type": "Superhero"
+  },
+  {
+    "id": "9",
+    "title": "Tokyo Ghoul",
+    "image": "https://i.imgur.com/2YQZ2YQ.jpg",
+    "description": "Após um encontro mortal, um estudante universitário se transforma em meio-ghoul e deve aprender a viver entre humanos e ghouls.",
+    "type": "Horror"
+  },
+  {
+    "id": "10",
+    "title": "Sword Art Online",
+    "image": "https://i.imgur.com/3XRZ3XR.jpg",
+    "description": "Jogadores ficam presos em um jogo de realidade virtual e devem lutar para sobreviver, pois morrer no jogo significa morrer na vida real.",
+    "type": "Sci-Fi"
+  }
+]
